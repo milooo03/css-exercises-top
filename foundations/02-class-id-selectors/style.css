@@ -1,0 +1,20 @@
+.odd_number,
+.cooler {
+    background-color: #ff8181a4;
+    font-family: Verdana, "DejaVu Sans", sans-serif,;   
+}
+
+#el1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#el2 {
+    background-color: rgba(0, 255, 0, 0.9);
+    font-size: 24px;
+    font-weight: bold;
+}
